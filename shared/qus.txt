@@ -1,0 +1,6 @@
+Exploratory Data Analysis (EDA)
+Q1: You’ve been given a sales dataset with fields: OrderID, CustomerID, Product, SalesAmount, OrderDate.
+Task: Identify trends over time, top-selling products, and customer purchasing behavior.
+
+Q2: You observe a sudden drop in revenue last month.
+Task: Use data to explain what went wrong (product returns, fewer orders, lower AOV?).
