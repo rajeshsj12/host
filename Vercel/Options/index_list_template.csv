@@ -1,0 +1,4 @@
+ticker,lot_size,default_exchange,description
+NIFTY,50,NSE,Nifty 50 Index
+BANKNIFTY,15,NSE,Nifty Bank Index
+FINNIFTY,40,NSE,Nifty Financial Services Index

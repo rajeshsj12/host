@@ -1,0 +1,10 @@
+parameter_name,value,description
+brokerage_flat_rate,20,"Flat brokerage fee per executed order"
+stt_percentage,0.125,"Securities Transaction Tax (%)"
+exchange_txn_charge,0.05,"Exchange Transaction Charge (%)"
+gst_percentage,18,"Goods and Services Tax (%)"
+sebi_charges,10,"SEBI Turnover Fees (per crore)"
+stamp_duty,0.003,"Stamp Duty (%)"
+default_vix,15,"Default India VIX assumption"
+risk_free_rate,7,"Risk-free interest rate (%)"
+SpotPrice,22000,"Default Spot Price for testing"
