@@ -1,1 +1,13 @@
-test
+{
+  "version": "1.0.0",
+  "last_updated": "2026-06-12",
+  "app_settings": {
+    "maintenance_mode": false,
+    "announcement_banner": "Welcome to SuperPeaks Options Terminal"
+  },
+  "csv_data_sources": {
+    "settings_csv": "https://raw.githubusercontent.com/rajeshsj12/host/main/Vercel%2FOptions%2Fsettings_template.csv",
+    "index_list_csv": "https://raw.githubusercontent.com/rajeshsj12/host/main/Vercel%2FOptions%2Findex_list_template.csv",
+    "positions_template_csv": "https://raw.githubusercontent.com/rajeshsj12/host/main/Vercel%2FOptions%2Fpositions_template.csv"
+  }
+}
